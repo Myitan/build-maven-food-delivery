@@ -1,0 +1,2 @@
+Order Id,Customer Id,OrderItem name,OrderItem pieces,OrderItem price,Timestamp (dd/MM/yyyy HH:mm),Total price of order 
+0,1,Fideua,2,30,08/01/2026 17:20,30
