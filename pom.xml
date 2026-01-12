@@ -20,6 +20,7 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <junit.version>5.9.2</junit.version>
+        <assertjs.version>3.27.6</assertjs.version>
     </properties>
 
     <dependencyManagement>
@@ -55,7 +56,7 @@
             <dependency>
                 <groupId>org.assertj</groupId>
                 <artifactId>assertj-core</artifactId>
-                <version>3.27.6</version>
+                <version>${assertjs.version}</version>
                 <scope>test</scope>
             </dependency>
         </dependencies>
