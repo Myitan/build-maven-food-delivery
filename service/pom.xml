@@ -17,4 +17,5 @@
             <artifactId>persistence</artifactId>
         </dependency>
     </dependencies>
+
 </project>
